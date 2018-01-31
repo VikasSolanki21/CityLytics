@@ -1,2 +1,2 @@
-# CityLytics is an early stage marketing research startup that leverage the fast-moving open data movement.
+# CityLytics is an early stage marketing research startup that leverages the fast-moving open data movement.
 
